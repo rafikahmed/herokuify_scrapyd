@@ -1,0 +1,9 @@
+*.pyc
+.DS_Store
+.coverage
+cover
+*.espressostorage
+*.egg
+*.egg-info
+build
+dist

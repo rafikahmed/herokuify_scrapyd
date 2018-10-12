@@ -15,7 +15,6 @@ setuptools.setup(
     install_requires=[
         'scrapyd'
     ],
-    REQUIRES_PYTHON = '>=3.6.0',
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
