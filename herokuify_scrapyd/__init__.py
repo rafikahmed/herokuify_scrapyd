@@ -1,0 +1,1 @@
+name="herokuify_scrapyd"
